@@ -1,4 +1,7 @@
 <h1>WORKING WITH REST API in QT</h1>
+<a href="https://dev.to/truepadawan/qt-c-working-with-rest-api-35fe">This project based this link</a>
+Qt at it's base is an application framework written in C++ which can be used to develop wide range of cross-platform applications and graphical user interfaces.
+In this project we test the GitHub REST API for the demonstration on working with REST APIs
 <h2>WHAT ARE APIs?</h2>
 API is short for Application Programming Interface. You can think of it as an intermediary between computers or software systems, It provides an environment for those systems to interact with each other, Usually you have a client(your application) which requests information from the server(service) and the API determines how that entire environment will function.
 <h2>How is Data passed through APIs?</h2>
